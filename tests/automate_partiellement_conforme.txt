@@ -1,0 +1,6 @@
+state s0 1 1
+state s1 0 0
+state s2 0 0
+transition s0 0 s1
+transition s0 1 s2
+transition s1 1 s3

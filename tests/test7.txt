@@ -1,0 +1,6 @@
+Cas de tests:
+011
+1011
+01011
+
+automate_conforme.txt
